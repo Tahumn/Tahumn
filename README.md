@@ -132,10 +132,6 @@
   <img src="https://komarev.com/ghpvc/?username=tamnhu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/tamnhu/tamnhu/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
 ---
 
 ### Connect with Me
