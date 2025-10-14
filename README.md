@@ -71,8 +71,8 @@
 
 <!-- Two-column: Stats + Top languages -->
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tamnhu&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamnhu&layout=compact&langs_count=8&theme=gruvbox&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamnhu&show_icons=true&theme=onedark&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamnhu&layout=compact&langs_count=8&theme=gruvbox&hide_border=true" alt="Top Languages" />
 </p>
 
 <!-- Activity heatmap (contribution calendar) -->
