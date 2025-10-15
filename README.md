@@ -21,7 +21,7 @@
 
 - IT student passionate about real-world software  
 - Exploring **AI, NLP, and distributed database systems**  
-- Experienced with **Python, Java, C++, JavaScript**  
+- Experienced with **Python, Java, C++, C#**  
 - Enjoys projects that blend logic, design, and real impact  
 - Usually found coding with a cup of coffee nearby  
 
